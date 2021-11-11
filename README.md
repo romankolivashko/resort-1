@@ -1,4 +1,4 @@
-# Resort App
+# Resort App - practice
 
 ## Table of Contents
 + [About](#about)
@@ -17,28 +17,14 @@ These instructions will get you a copy of the project up and running on your loc
 * Node.js
 * Webpack
 
-```
-Give examples
-```
 
 ### Installing
 
 1. Clone the repository: $ git clone https://github.com/romankolivashko/this-repo-name.git
 2. Navigate to the repo-name/ directory on your computer
-3. Run npm install in command line/Bash to get all dependencies.
-4. Run npm run start in command line/Bash to start up the program in your browser.
+3. Run `npm install` in command line/Bash to get all dependencies.
+4. Run `npm run start` in command line/Bash to start up the program in your browser.
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
 
 ## Usage <a name = "usage"></a>
 
